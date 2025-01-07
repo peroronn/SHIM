@@ -1,3 +1,5 @@
+https://snack.expo.dev/@kyawkyawhtun/shim
+
 Running the App with Expo Go mobile App
 
     #Go to browser 
